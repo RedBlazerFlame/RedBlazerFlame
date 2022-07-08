@@ -36,6 +36,16 @@ public class MyScript : MonoBehaviour
 }
 ```
 
+```Haskell
+separator :: [Char] -> [Char] -> [Char] -> [Char]
+separator sep elem acc = elem ++ sep ++ acc
+
+main :: IO()
+main = do
+    print(foldr (separator " ") "" ["Hello","World!"])
+    print(foldr (separator " ") "." ["I","am","trying","to","learn","Haskell","but","it","is","quite","different","from","the","languages","I","am","used","to"])
+```
+
 ```C++
 #include <iostream>
 
@@ -44,6 +54,7 @@ int main() {
   std::cout << "Python is nice but I'm not so sure if you can do static typing .-." << std::endl;
   std::cout << "C# is fun because it is strongly typed, but some function names are weird, like Accumulate instead of Reduce..." << std::endl;
   std::cout << "C++, on the other hand, is a bit more difficult to program in..." << std::endl;
+  std::cout << "Haskell is just a major paradigm shift for me" << std::endl;
   std::cout << "That is why I use TypeScript, I guess";
   return 0;
 }
