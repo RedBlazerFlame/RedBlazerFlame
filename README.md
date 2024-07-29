@@ -1,13 +1,33 @@
+> *An hour of study, for the modern apostle, is an hour of prayer*
+\- *St. Josemaria Escriva*
+
+---
+
 # About Me
-> *Per Aspera, Ad Astra*
 
 Hello, I am RedBlazerFlame...
 
 ## Aliases
-- TheBoy
 - ProtonDecay314
+- PhotoMagnetic
+- TheBoy
 
 ## The Languages I Know
+
+```C++
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+
+int main() {
+  for(ll i = 1ll; i <= 3ll; i++ {
+    cout << i << "..." << endl;
+  }
+
+  cout << "C++ is KING" << endl;
+  return 0;
+}
+```
 
 ```TypeScript
 console.log("Hello! I am a programmer. Why else would I be here in GitHub?");
@@ -15,7 +35,7 @@ console.log("Hello! I am a programmer. Why else would I be here in GitHub?");
 
 ```Python
 def main():
-  print("The languages you see in this section are TypeScript/JavaScript, Python, C#, and C++")
+  print("This is very fun to program in!")
 
 if __name__ == "__main__":
   main()
@@ -46,29 +66,28 @@ main = do
     print(foldr (separator " ") "." ["I","am","trying","to","learn","Haskell","but","it","is","quite","different","from","the","languages","I","am","used","to"])
 ```
 
-```C++
-#include <iostream>
-
-int main() {
-  std::cout << "I ordered them by preference, I guess." << std::endl;
-  std::cout << "Python is nice but I'm not so sure if you can do static typing .-." << std::endl;
-  std::cout << "C# is fun because it is strongly typed, but some function names are weird, like Accumulate instead of Reduce..." << std::endl;
-  std::cout << "C++, on the other hand, is a bit more difficult to program in..." << std::endl;
-  std::cout << "Haskell is just a major paradigm shift for me" << std::endl;
-  std::cout << "That is why I use TypeScript, I guess";
-  return 0;
-}
-```
-
 ## Interests
+- Competitive Programming
 - Math
 - Web Development
-- Unity (as in the game engine)
 - Data Science
 
 ## Current Projects
-- **Coding Creations Camp**, a camp where I teach people how to create drawings using JavaScript's Canvas2d API
-- **Anya Collects Peanuts**, a game where Anya Forger travels around a procedurally-generated multiverse in search of peanuts to add to her collection
+- **IOI Training**: I'm one of the Philippine delegates for IOI 2024! I'm currently training hard for it ^^
+- **Reboot**: The CompProg/SoftDev training pool of Philippine Science High School - Main Campus (PSHS-MC)
+- **PCPC**: Pisay Competitive Programming Competition, the CompProg contest of PSHS-MC
+- **Coding Creations Camp**: Currently on hiatus, but will probably make a comeback soon! ^^
+
+## Non-CS Related
+- I love listening to J-pop
+- MIKU MIKU OO-EE-OO
+- Current favorite artists are *Luna and Tayori! :))
+  - STREAM "A LITTLE BIRD TOLD ME" BY TAYORI WOOHOO
+- I'm currently trying to beat P3 in Hollow Knight
+- I'm currently trying to finish all B-sides in Celeste
+- I'm currently in chapter 3 of NaissanceE
+- Proud member of Mga Anaks ni Sir Neil and Walang Jowa Club :))
+- Proud member of PSHS-MC Batch 2025 (I am grad-waiting ^^)
 
 ---
 **The End**
