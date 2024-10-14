@@ -7,7 +7,7 @@
 
 Hello, I am Gabee De Vera (or ProtonDecay314). I am a passionate and motivated Competitive Programmer and Software Developer! 🔥
 
-*If you came here from the link I put in the maker portfolio, check the [Maker Portfolio Projects](##maker-portfolio-projects) section for the portfolio materials 😄*
+*If you came here from the link I put in the maker portfolio, check the [Maker Portfolio Projects](#maker-portfolio-projects) section for the portfolio materials 😄*
 
 ## Aliases
 - ProtonDecay314
