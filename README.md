@@ -76,7 +76,26 @@ main = do
 
 ## Maker Portfolio Projects
 
-This section is still a work in progress! Please standby, thank you! 😄
+### K-means Unsupervised Classification of Noisy Pattern Orientations
+
+- [Code, Paper, and Presentation](https://github.com/RedBlazerFlame/simc-2024-submission)
+
+### Anime Face Generator using Generative Adversarial Networks
+
+- [Live Demo](https://redblazerflame-project-portfolio.onrender.com/root/projects/AnimeCharacterGenerator/text-index.html)
+- [Trained Versions of the Model in tf.SavedModel Format](https://github.com/RedBlazerFlame/my-projects-public-api/tree/main/api/redblazerflames-project-portfolio/anime-character-generator)
+- [Website Code (in case you want to self-host the website)](https://github.com/RedBlazerFlame/RedBlazerFlame-project-portfolio/tree/main)
+
+### Reunion Find: Beta Worldline
+
+- [Link to Repository](https://github.com/RedBlazerFlame/pcpc25/tree/main/reunion-find-beta-worldline)
+
+Note that the repository is currently private since the contest will occur in the future. Please email me your GitHub username at b2025hgddevera@pshs.edu.ph and gabeedevera@outlook.com. Apologies for the inconvenience.
+I have also attached a zip file containing the code used for the problem in case GitHub doesn't work
+
+- [Link to Problem Statement](https://codeforces.com/contests/558153)
+
+Please create an account on Polygon and send your handle to the aforementioned email so that I can give you access to the problem statement. I will also attach a PDF copy of the problem for your reference (scraped online from CodeForces).
 
 ## Current Projects
 - **IOI Training**: I'm one of the Philippine delegates for IOI 2024! I'm currently training hard for it ^^
