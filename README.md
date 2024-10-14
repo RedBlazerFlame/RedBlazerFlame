@@ -5,7 +5,9 @@
 
 # About Me
 
-Hello, I am RedBlazerFlame...
+Hello, I am Gabee De Vera (or ProtonDecay314). I am a passionate and motivated Competitive Programmer and Software Developer! 🔥
+
+*If you came here from the link I put in the maker portfolio, check the [Maker Portfolio Projects](##maker-portfolio-projects) section for the portfolio materials 😄*
 
 ## Aliases
 - ProtonDecay314
@@ -70,7 +72,11 @@ main = do
 - Competitive Programming
 - Math
 - Web Development
-- Data Science
+- Data Science/Machine Learning
+
+## Maker Portfolio Projects
+
+This section is still a work in progress! Please standby, thank you! 😄
 
 ## Current Projects
 - **IOI Training**: I'm one of the Philippine delegates for IOI 2024! I'm currently training hard for it ^^
@@ -84,7 +90,7 @@ main = do
 - Current favorite artists are *Luna and Tayori! :))
   - STREAM "A LITTLE BIRD TOLD ME" BY TAYORI WOOHOO
 - I'm currently trying to beat P3 in Hollow Knight
-- I'm currently trying to finish all B-sides in Celeste
+- I'm currently trying to finish all C-sides and obtain the moon berry in Celeste (I recently finished Farewell!)
 - I'm currently in chapter 3 of NaissanceE
 - Proud member of Mga Anaks ni Sir Neil and Walang Jowa Club :))
 - Proud member of PSHS-MC Batch 2025 (I am grad-waiting ^^)
