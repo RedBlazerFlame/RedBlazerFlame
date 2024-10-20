@@ -82,6 +82,7 @@ main = do
 
 ### Anime Face Generator using Generative Adversarial Networks
 
+- [Source Code](https://github.com/RedBlazerFlame/anime-gan-source-code)
 - [Live Demo](https://redblazerflame-project-portfolio.onrender.com/root/projects/AnimeCharacterGenerator/text-index.html)
 - [Trained Versions of the Model in tf.SavedModel Format](https://github.com/RedBlazerFlame/my-projects-public-api/tree/main/api/redblazerflames-project-portfolio/anime-character-generator)
 - [Website Code (in case you want to self-host the website)](https://github.com/RedBlazerFlame/RedBlazerFlame-project-portfolio/tree/main)
@@ -90,8 +91,8 @@ main = do
 
 - [Link to Repository](https://github.com/RedBlazerFlame/pcpc25/tree/main/reunion-find-beta-worldline)
 
-Note that the repository is currently private since the contest will occur in the future. Please email me your GitHub username at b2025hgddevera@pshs.edu.ph and gabeedevera@outlook.com. Apologies for the inconvenience.
-I have also attached a zip file containing the code used for the problem in case GitHub doesn't work
+Note that the repository is currently private since the contest will occur in the future. Please email me your GitHub username at b2025hgddevera@pshs.edu.ph and gabeedevera@outlook.com if you wish to access the source code. Apologies for the inconvenience.
+I have also attached a zip file in SlideRoom containing the code used for the problem in case GitHub doesn't work
 
 - [Link to Problem Statement](https://codeforces.com/contests/558153)
 
